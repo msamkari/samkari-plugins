@@ -8,16 +8,16 @@
     {
       "name": "persistent-memory",
       "source": {
-        "source": "github",
-        "repo": "msamkari/persistent-memory-plugin"
+        "source": "url",
+        "url": "https://github.com/msamkari/persistent-memory-plugin.git"
       },
       "description": "Build and run a Persistent Memory System for long-running projects so Claude stops asking you to re-explain context."
     },
     {
       "name": "structured-handover",
       "source": {
-        "source": "github",
-        "repo": "msamkari/structured-handover-doc-skill"
+        "source": "url",
+        "url": "https://github.com/msamkari/structured-handover-doc-skill.git"
       },
       "description": "Turn scattered context into a unified, shareable Structured Handover Document (case, project, or trip)."
     }
