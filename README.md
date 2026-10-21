@@ -13,7 +13,7 @@ Mohammad Samkari's Claude plugins marketplace.
 
 ## Adding a plugin
 
-Add an entry to the `plugins` array in `.claude-plugin/marketplace.json` that points at the plugin's own repository (`"source": {"source": "github", "repo": "owner/repo"}`). Each plugin keeps its own repo; this repo is only the index.
+Add an entry to the `plugins` array in `.claude-plugin/marketplace.json` that points at the plugin's own repository (`"source": {"source": "url", "url": "https://github.com/owner/repo.git"}`; HTTPS avoids SSH host-key errors on machines without SSH set up). Each plugin keeps its own repo; this repo is only the index.
 
 Update with `/plugin marketplace update samkari-plugins`.
 
