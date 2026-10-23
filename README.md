@@ -25,7 +25,7 @@ Every plugin follows [semantic versioning](https://semver.org) (`MAJOR.MINOR.PAT
 - `MINOR` (1.0.0 → 1.1.0): new features that keep working as before.
 - `MAJOR` (1.0.0 → 2.0.0): changes that break existing use.
 
-Claude Code only offers an update when the version number goes up, so bump it on every release. Each release is also tagged in the plugin's repo (`v1.0.0`, `v1.0.1`, ...).
+Claude Code only offers an update when the version number goes up, so bump it on every release. For each release, also create a GitHub Release in the plugin's repo (it creates the tag: `v1.0.0`, `v1.0.1`, ...). This step is manual: automated sessions cannot create tags or releases.
 
 | Plugin | Current version |
 |---|---|
