@@ -29,5 +29,5 @@ Claude Code only offers an update when the version number goes up, so bump it on
 
 | Plugin | Current version |
 |---|---|
-| `persistent-memory` | 1.0.0 |
+| `persistent-memory` | 1.1.0 |
 | `structured-handover` | 1.0.0 |
