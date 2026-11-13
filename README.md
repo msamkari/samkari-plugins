@@ -10,6 +10,7 @@ Mohammad Samkari's Claude plugins marketplace.
 |---|---|---|
 | `persistent-memory` | `/plugin install persistent-memory@samkari-plugins` | [persistent-memory-plugin](https://github.com/msamkari/persistent-memory-plugin) |
 | `structured-handover` | `/plugin install structured-handover@samkari-plugins` | [structured-handover-doc-skill](https://github.com/msamkari/structured-handover-doc-skill) |
+| `vitals` | `/plugin install vitals@samkari-plugins` | [vitals](https://github.com/msamkari/vitals) |
 
 ## Adding a plugin
 
@@ -31,3 +32,4 @@ Claude Code only offers an update when the version number goes up, so bump it on
 |---|---|
 | `persistent-memory` | 1.6.1 |
 | `structured-handover` | 1.0.0 |
+| `vitals` | 0.1.0 |

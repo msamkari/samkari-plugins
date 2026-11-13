@@ -20,6 +20,14 @@
         "url": "https://github.com/msamkari/structured-handover-doc-skill.git"
       },
       "description": "Turn scattered context into a unified, shareable Structured Handover Document (case, project, or trip)."
+    },
+    {
+      "name": "vitals",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/vitals.git"
+      },
+      "description": "Offline, config-driven continuity check for any project: required files, fact expiry, state files fresher than work, and drift between derived files and their sources."
     }
   ]
 }
