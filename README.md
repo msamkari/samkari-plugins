@@ -33,7 +33,7 @@ Claude Code only offers an update when the version number goes up, so bump it on
 | Plugin | Current version |
 |---|---|
 | `persistent-memory` | 1.8.4 |
-| `structured-handover` | 1.0.1 |
-| `vitals` | 0.2.1 |
+| `structured-handover` | 1.0.2 |
+| `vitals` | 0.2.2 |
 | `clipscope` | 0.1.1 |
 | `nightshift` | 0.1.4 |
