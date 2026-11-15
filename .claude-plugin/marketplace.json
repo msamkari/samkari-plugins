@@ -28,6 +28,22 @@
         "url": "https://github.com/msamkari/vitals.git"
       },
       "description": "Offline, config-driven continuity check for any project: required files, fact expiry, state files fresher than work, and drift between derived files and their sources."
+    },
+    {
+      "name": "clipscope",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/clipscope.git"
+      },
+      "description": "Let Claude watch a public video or local clip: frames, audio and an optional local transcript, with loudness and silence metrics. Uses the yt-dlp, ffmpeg and whisper you already have."
+    },
+    {
+      "name": "nightshift",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/nightshift.git"
+      },
+      "description": "Usage-gated auto-resume: keep unfinished work moving with a queue file and a scheduled run that stops itself when your plan limit is near. Skills only, local work only."
     }
   ]
 }

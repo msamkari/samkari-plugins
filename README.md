@@ -11,6 +11,8 @@ Mohammad Samkari's Claude plugins marketplace.
 | `persistent-memory` | `/plugin install persistent-memory@samkari-plugins` | [persistent-memory-plugin](https://github.com/msamkari/persistent-memory-plugin) |
 | `structured-handover` | `/plugin install structured-handover@samkari-plugins` | [structured-handover-doc-skill](https://github.com/msamkari/structured-handover-doc-skill) |
 | `vitals` | `/plugin install vitals@samkari-plugins` | [vitals](https://github.com/msamkari/vitals) |
+| `clipscope` | `/plugin install clipscope@samkari-plugins` | [clipscope](https://github.com/msamkari/clipscope) |
+| `nightshift` | `/plugin install nightshift@samkari-plugins` | [nightshift](https://github.com/msamkari/nightshift) |
 
 ## Adding a plugin
 
@@ -30,6 +32,8 @@ Claude Code only offers an update when the version number goes up, so bump it on
 
 | Plugin | Current version |
 |---|---|
-| `persistent-memory` | 1.6.1 |
+| `persistent-memory` | 1.8.3 |
 | `structured-handover` | 1.0.0 |
-| `vitals` | 0.1.0 |
+| `vitals` | 0.2.0 |
+| `clipscope` | 0.1.0 |
+| `nightshift` | 0.1.0 |
