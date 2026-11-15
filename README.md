@@ -36,4 +36,4 @@ Claude Code only offers an update when the version number goes up, so bump it on
 | `structured-handover` | 1.0.0 |
 | `vitals` | 0.2.0 |
 | `clipscope` | 0.1.0 |
-| `nightshift` | 0.1.0 |
+| `nightshift` | 0.1.1 |
