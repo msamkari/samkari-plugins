@@ -13,6 +13,8 @@ Mohammad Samkari's Claude plugins marketplace.
 | `vitals` | `/plugin install vitals@samkari-plugins` | [vitals](https://github.com/msamkari/vitals) |
 | `clipscope` | `/plugin install clipscope@samkari-plugins` | [clipscope](https://github.com/msamkari/clipscope) |
 | `nightshift` | `/plugin install nightshift@samkari-plugins` | [nightshift](https://github.com/msamkari/nightshift) |
+| `lahja` | `/plugin install lahja@samkari-plugins` | [lahja](https://github.com/msamkari/lahja) |
+| `lahja-voice` | `/plugin install lahja-voice@samkari-plugins` | [lahja-voice](https://github.com/msamkari/lahja-voice) |
 
 ## Adding a plugin
 
@@ -37,3 +39,5 @@ Claude Code only offers an update when the version number goes up, so bump it on
 | `vitals` | 0.2.3 |
 | `clipscope` | 0.1.2 |
 | `nightshift` | 0.1.5 |
+| `lahja` | 0.1.2 |
+| `lahja-voice` | 0.1.1 |

@@ -44,6 +44,22 @@
         "url": "https://github.com/msamkari/nightshift.git"
       },
       "description": "Usage-gated auto-resume: keep unfinished work moving with a queue file and a scheduled run that stops itself when your plan limit is near. Skills only, local work only."
+    },
+    {
+      "name": "lahja",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/lahja.git"
+      },
+      "description": "Dialect-pack linter for spoken-word scripts: finds what sounds wrong when read aloud; first pack: Saudi (Gulf). Add your own dialect as a pack file. Read-only."
+    },
+    {
+      "name": "lahja-voice",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/lahja-voice.git"
+      },
+      "description": "Dry-run-first ElevenLabs voiceover from spoken-word scripts. Nothing is sent until you approve; the key comes from your environment only."
     }
   ]
 }
