@@ -9,7 +9,7 @@ Mohammad Samkari's Claude plugins marketplace.
 | Plugin | Install | Repo |
 |---|---|---|
 | `persistent-memory` | `/plugin install persistent-memory@samkari-plugins` | [persistent-memory-plugin](https://github.com/msamkari/persistent-memory-plugin) |
-| `structured-handover` | `/plugin install structured-handover@samkari-plugins` | [structured-handover-doc-skill](https://github.com/msamkari/structured-handover-doc-skill) |
+| `baton` | `/plugin install baton@samkari-plugins` | [baton](https://github.com/msamkari/baton) |
 | `vitals` | `/plugin install vitals@samkari-plugins` | [vitals](https://github.com/msamkari/vitals) |
 | `clipscope` | `/plugin install clipscope@samkari-plugins` | [clipscope](https://github.com/msamkari/clipscope) |
 | `nightshift` | `/plugin install nightshift@samkari-plugins` | [nightshift](https://github.com/msamkari/nightshift) |
@@ -32,8 +32,8 @@ Claude Code only offers an update when the version number goes up, so bump it on
 
 | Plugin | Current version |
 |---|---|
-| `persistent-memory` | 1.8.4 |
-| `structured-handover` | 1.0.3 |
+| `persistent-memory` | 1.8.5 |
+| `baton` | 1.1.0 |
 | `vitals` | 0.2.2 |
 | `clipscope` | 0.1.1 |
 | `nightshift` | 0.1.4 |

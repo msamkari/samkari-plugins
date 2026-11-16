@@ -14,10 +14,10 @@
       "description": "Build and run a Persistent Memory System for long-running projects so Claude stops asking you to re-explain context."
     },
     {
-      "name": "structured-handover",
+      "name": "baton",
       "source": {
         "source": "url",
-        "url": "https://github.com/msamkari/structured-handover-doc-skill.git"
+        "url": "https://github.com/msamkari/baton.git"
       },
       "description": "Turn scattered context into a unified, shareable Structured Handover Document (case, project, or trip)."
     },
