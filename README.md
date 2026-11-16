@@ -34,6 +34,6 @@ Claude Code only offers an update when the version number goes up, so bump it on
 |---|---|
 | `persistent-memory` | 1.8.5 |
 | `baton` | 1.1.0 |
-| `vitals` | 0.2.2 |
-| `clipscope` | 0.1.1 |
-| `nightshift` | 0.1.4 |
+| `vitals` | 0.2.3 |
+| `clipscope` | 0.1.2 |
+| `nightshift` | 0.1.5 |
