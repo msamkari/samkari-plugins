@@ -40,4 +40,4 @@ Claude Code only offers an update when the version number goes up, so bump it on
 | `clipscope` | 0.1.2 |
 | `nightshift` | 0.1.5 |
 | `lahja` | 0.1.2 |
-| `lahja-voice` | 0.1.1 |
+| `lahja-voice` | 0.1.2 |
