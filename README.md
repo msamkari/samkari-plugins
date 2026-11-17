@@ -15,6 +15,8 @@ Mohammad Samkari's Claude plugins marketplace.
 | `nightshift` | `/plugin install nightshift@samkari-plugins` | [nightshift](https://github.com/msamkari/nightshift) |
 | `lahja` | `/plugin install lahja@samkari-plugins` | [lahja](https://github.com/msamkari/lahja) |
 | `lahja-voice` | `/plugin install lahja-voice@samkari-plugins` | [lahja-voice](https://github.com/msamkari/lahja-voice) |
+| `loom` | `/plugin install loom@samkari-plugins` | [loom](https://github.com/msamkari/loom) |
+| `relay` | `/plugin install relay@samkari-plugins` | [relay](https://github.com/msamkari/relay) |
 
 ## Adding a plugin
 
@@ -41,3 +43,5 @@ Claude Code only offers an update when the version number goes up, so bump it on
 | `nightshift` | 0.1.5 |
 | `lahja` | 0.1.2 |
 | `lahja-voice` | 0.1.2 |
+| `loom` | 0.1.2 |
+| `relay` | 0.1.1 |
