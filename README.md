@@ -36,7 +36,7 @@ Claude Code only offers an update when the version number goes up, so bump it on
 
 | Plugin | Current version |
 |---|---|
-| `persistent-memory` | 1.9.0 |
+| `persistent-memory` | 1.9.1 |
 | `baton` | 1.1.0 |
 | `vitals` | 0.2.3 |
 | `clipscope` | 0.1.2 |
