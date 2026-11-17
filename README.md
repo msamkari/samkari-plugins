@@ -36,11 +36,11 @@ Claude Code only offers an update when the version number goes up, so bump it on
 
 | Plugin | Current version |
 |---|---|
-| `persistent-memory` | 1.8.5 |
+| `persistent-memory` | 1.9.0 |
 | `baton` | 1.1.0 |
 | `vitals` | 0.2.3 |
 | `clipscope` | 0.1.2 |
-| `nightshift` | 0.1.5 |
+| `nightshift` | 0.1.6 |
 | `lahja` | 0.1.2 |
 | `lahja-voice` | 0.1.2 |
 | `loom` | 0.1.2 |
