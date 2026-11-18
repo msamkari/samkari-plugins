@@ -34,14 +34,4 @@ Every plugin follows [semantic versioning](https://semver.org) (`MAJOR.MINOR.PAT
 
 Claude Code only offers an update when the version number goes up, so bump it on every release. For each release, also create a GitHub Release in the plugin's repo (it creates the tag: `v1.0.0`, `v1.0.1`, ...). This step is manual: automated sessions cannot create tags or releases.
 
-| Plugin | Current version |
-|---|---|
-| `persistent-memory` | 1.9.1 |
-| `baton` | 1.1.0 |
-| `vitals` | 0.2.3 |
-| `clipscope` | 0.1.2 |
-| `nightshift` | 0.1.6 |
-| `lahja` | 0.1.2 |
-| `lahja-voice` | 0.1.2 |
-| `loom` | 0.1.2 |
-| `relay` | 0.1.1 |
+The current version of each plugin is in its own repository (latest GitHub Release) and in `/plugin list`; this README no longer lists versions.
