@@ -13,6 +13,7 @@ Mohammad Samkari's Claude plugins marketplace.
 | `vitals` | `/plugin install vitals@samkari-plugins` | [vitals](https://github.com/msamkari/vitals) |
 | `clipscope` | `/plugin install clipscope@samkari-plugins` | [clipscope](https://github.com/msamkari/clipscope) |
 | `nightshift` | `/plugin install nightshift@samkari-plugins` | [nightshift](https://github.com/msamkari/nightshift) |
+| `ctxguard` | `/plugin install ctxguard@samkari-plugins` | [ctxguard](https://github.com/msamkari/ctxguard) |
 | `lahja` | `/plugin install lahja@samkari-plugins` | [lahja](https://github.com/msamkari/lahja) |
 | `lahja-voice` | `/plugin install lahja-voice@samkari-plugins` | [lahja-voice](https://github.com/msamkari/lahja-voice) |
 | `loom` | `/plugin install loom@samkari-plugins` | [loom](https://github.com/msamkari/loom) |
