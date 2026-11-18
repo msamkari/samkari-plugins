@@ -76,6 +76,14 @@
         "url": "https://github.com/msamkari/relay.git"
       },
       "description": "Pending-work registry for background agents and tasks. Everything needed to continue after a usage limit (HTTP 429) is saved in the project: a strict registry, the full brief of each agent, partial-report pointers and retry times. A fresh session lists what is due and re-launches from the saved briefs (a stopped subagent cannot be resumed from another session). Optional guarded ship step (pr, merge-ff, tag, release) that runs only pinned commands under a signed, expiring, commit-bound approval. Python standard library only."
+    },
+    {
+      "name": "ctxguard",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/ctxguard.git"
+      },
+      "description": "Context-size guard hooks for Claude Code. Measures the live session context and age from the transcript and nudges you to hand over to a fresh session at soft and strong thresholds; opt-in blocking. No model, no network, Python standard library only."
     }
   ]
 }
