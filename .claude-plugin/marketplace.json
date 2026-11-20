@@ -84,6 +84,14 @@
         "url": "https://github.com/msamkari/ctxguard.git"
       },
       "description": "Context-size guard hooks for Claude Code. Measures the live session context and age from the transcript and nudges you to hand over to a fresh session at soft and strong thresholds; opt-in blocking. No model, no network, Python standard library only."
+    },
+    {
+      "name": "keyframe-kit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/msamkari/keyframe-kit.git"
+      },
+      "description": "Media tools for video makers: green-screen keying for flat cartoon art with a fringe gate, a per-frame music-ducking curve from a speech WAV, and a finder for near-empty seconds. Needs numpy, OpenCV and ffmpeg (documented)."
     }
   ]
 }

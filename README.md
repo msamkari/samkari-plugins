@@ -18,6 +18,7 @@ Mohammad Samkari's Claude plugins marketplace.
 | `lahja-voice` | `/plugin install lahja-voice@samkari-plugins` | [lahja-voice](https://github.com/msamkari/lahja-voice) |
 | `loom` | `/plugin install loom@samkari-plugins` | [loom](https://github.com/msamkari/loom) |
 | `relay` | `/plugin install relay@samkari-plugins` | [relay](https://github.com/msamkari/relay) |
+| `keyframe-kit` | `/plugin install keyframe-kit@samkari-plugins` | [keyframe-kit](https://github.com/msamkari/keyframe-kit) |
 
 ## Adding a plugin
 
